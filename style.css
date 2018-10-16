@@ -5,6 +5,9 @@ body {
 
 section {
     height: calc(100vh - 50px);
+    background: url(bg.jpeg);
+    background-size: cover;
+    background-position: center;
 }
 
 ul {
