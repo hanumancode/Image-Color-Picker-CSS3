@@ -48,3 +48,23 @@ ul li:nth-child(4) {
 ul li:nth-child(5) {
     background: #3645A0;
 }
+
+ul li:hover:nth-child(1) {
+    box-shadow: 0 0 0 1500px #FF5500;
+}
+
+ul li:hover:nth-child(2) {
+    box-shadow: 0 0 0 1500px #5500FF;
+}
+
+ul li:hover:nth-child(3) {
+    box-shadow: 0 0 0 1500px #00B3B4;
+}
+
+ul li:hover:nth-child(4) {
+    box-shadow: 0 0 0 1500px #44CC00;
+}
+
+ul li:hover:nth-child(5) {
+    box-shadow: 0 0 0 1500px #E645A0    ;
+}
