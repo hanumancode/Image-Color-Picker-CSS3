@@ -18,3 +18,30 @@ ul {
     height: 50px;
     display: flex;
 }
+
+ul li {
+    position: relative;
+    list-style: none;
+    width: 20%;
+    height: 100%;
+}
+
+ul li:nth-child(1) {
+    background: #FF5500;
+}
+
+ul li:nth-child(2) {
+    background: #5500FF;
+}
+
+ul li:nth-child(3) {
+    background: #00B3B3;
+}
+
+ul li:nth-child(4) {
+    background: #44CC00;
+}
+
+ul li:nth-child(5) {
+    background: #3645A0;
+}
